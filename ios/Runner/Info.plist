@@ -22,6 +22,10 @@
 	<string>Please allow us to access your device gallery</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Please allow us to access your device camera</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow us to use device location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Please allow us to use device location</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
